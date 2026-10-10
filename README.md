@@ -1,6 +1,6 @@
 # Optimization of Minimum Inventory
 
-Operations-research project investigating **inventory minimization and optimization**.
+Operations-research study of **minimum inventory management** for an anonymized distribution business, combining demand analysis and forecasting. The study explores ABC/XYZ segmentation, seasonality, lead-time considerations, exponential smoothing and neural-network approaches. See the report and notebook for methodology and results.
 
 ## Files
 
